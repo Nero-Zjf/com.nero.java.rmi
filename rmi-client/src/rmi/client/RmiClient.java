@@ -1,6 +1,6 @@
 package rmi.client;
 
-import rmi.client.pojo.User;
+import rmi.server.pojo.User;
 import rmi.server.service.UserService;
 
 import java.rmi.NotBoundException;
