@@ -1,4 +1,4 @@
-package rmi.server.pojo;
+package rmi.api.pojo;
 
 import java.io.Serializable;
 
