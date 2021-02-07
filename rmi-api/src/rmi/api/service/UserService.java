@@ -1,7 +1,8 @@
-package rmi.server.service;
+package rmi.api.service;
 
 
-import rmi.server.pojo.User;
+
+import rmi.api.pojo.User;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;

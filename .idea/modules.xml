@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/com.nero.java.rmi.iml" filepath="$PROJECT_DIR$/com.nero.java.rmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rmi-api/rmi-api.iml" filepath="$PROJECT_DIR$/rmi-api/rmi-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/rmi-client/rmi-client.iml" filepath="$PROJECT_DIR$/rmi-client/rmi-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/rmi-server/rmi-server.iml" filepath="$PROJECT_DIR$/rmi-server/rmi-server.iml" />
     </modules>
